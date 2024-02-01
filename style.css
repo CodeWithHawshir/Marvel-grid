@@ -1,0 +1,112 @@
+*{
+    padding: 2px;
+    margin: 0;
+    border-radius: 8px;
+    background-color: black;
+}
+
+.main{
+    width: 80%;
+    margin: 10;
+    margin: 20px;
+    padding: 40px 0px;
+}
+
+.photo-gellery{
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+}
+
+.spidy{
+    width: 250px;
+    height: 400px;
+   
+}
+
+.doctor{
+    width: 230px;
+    height: 200px;
+    margin-top: 26.6%;   
+
+}
+
+.black{
+    width: 200px;
+    height: 195px;
+
+    
+}
+.thor{
+    width: 200px;
+    height: 200px;
+
+    
+}
+
+.witch{
+    width: 200px;
+    height: 200px;
+    flex-wrap: nowrap;
+    margin-top: 25%;   
+
+}
+
+.loki{
+    width: 200px;
+    height: 200px;
+
+    
+}
+
+.wonda{
+    width: 300px;
+    height: 200px;
+
+    margin-top: 17%;   
+
+}
+
+.logan{
+    width: 300px;
+    height: 400px;
+
+
+}
+
+.iron{
+    width: 60px;
+    height: 200px;
+    margin-top: 10px;
+
+
+}
+
+
+.evens{
+    height: 200px;
+    width: 330px;
+}
+
+.ms{
+    width: 180px;
+    height: 194px;
+
+}
+
+.eternal{
+    height: 200px;
+    width: 328px;
+    margin-top: 15.0%;
+}
+
+.hawk{
+    width: 146px;
+    height: 193px;
+}
+
+img:hover{
+    opacity: 70%;
+    cursor: pointer;
+}
